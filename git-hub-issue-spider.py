@@ -3,7 +3,7 @@
 import sys
 from subprocess import call, check_output, Popen
 from multiprocessing import Pool
-proxy = 'http://child-proxy.intel.com:913'
+proxy = '*****************'
 
 try:
     import argparse
